@@ -11,7 +11,7 @@ body {
 }
 
 header {
-
+    z-index: 5;
     padding: 1rem;
     top: 0;
     position: sticky;
@@ -108,12 +108,6 @@ section.category {
 
 .conatiner-description-txt {
     color: var(--md-green);
-}
-
-
-div.container-img {
-    /* position: relative;
-    overflow-x: hidden; */
 }
 
 .container-img {
