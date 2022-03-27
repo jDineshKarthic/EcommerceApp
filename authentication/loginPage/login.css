@@ -169,14 +169,7 @@ section.category {
     background-color: var(--lt-pink);
 }
 
-.form-signin {
 
-    /* display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start; */
-    /* background-color: var(--lt-choco) */
-}
 
 div {
     width: 100px;
