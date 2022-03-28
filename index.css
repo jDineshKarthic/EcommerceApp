@@ -123,13 +123,9 @@ section.category {
     /* overflow-x: hidden !important; */
 }
 
-.conatiner-description {
-    position: absolute;
-    top: 10%;
-    left: 14%;
-}
 
-.conatiner-description-btn {
+
+.container-description-btn {
     background-color: var(--lt-brown);
     padding: 0.4rem 1.5rem;
     border: 1px solid var(--lt-brown);
@@ -138,12 +134,14 @@ section.category {
     margin-top: 1rem;
 }
 
-.conatiner-description-btn {
+.container-description-btn {
     box-shadow: 0 1px 8px var(--lt-choco);
     border: none;
     outline: none;
 
 }
+
+
 
 .remove-anchor-style {
     text-decoration: none;
