@@ -1,0 +1,68 @@
+:root {
+    --lt-cream: #f0e0c4;
+    --dk-cream: #eedcbd;
+    --md-green: #93aa80;
+    --lt-grey: #dcd9d9;
+    --md-grey: #979797;
+    --dk-grey: #393939;
+    --lt-choco: #9e7e83;
+    --lt-white: #f7f7f7;
+
+    --lt-brown: #af754a;
+    --lt-pink: #fff2f0;
+    --lt-red: #ffe7e7;
+    --dk-red: rgb(230, 86, 86);
+    --dk-red: rgb(224, 39, 39);
+    --lt-maroon: #dc9891;
+    --sm: 1rem;
+    --md: 1.5rem;
+    --xs: 0.5rem;
+
+    --semi-bold: 500;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.flex-justify-content-center {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-justify-space-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-align-items-center {
+    display: flex;
+    align-items: center;
+}
+
+.flex-start {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
